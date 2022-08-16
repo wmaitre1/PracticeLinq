@@ -19,9 +19,6 @@ namespace PraticeLinq
                 Console.WriteLine(myVideo);
             }
 
-            //Console.WriteLine(gameName);
-
-
 
             Console.ReadLine();
         }
